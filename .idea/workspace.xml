@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bafdcd8-662d-4430-8499-d89f6a676206" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson_1_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_1_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_1_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_1_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_1_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/lesson_1_1.py" />
+    </disable_hints>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,9 +41,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.lesson_1_6">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kotiks\Desktop\gb_py_lessons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lesson_1_1">
     <configuration name="lesson_1_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson_1_1" />
         <item itemvalue="Python.lesson_1_6" />
         <item itemvalue="Python.lesson_1_5" />
         <item itemvalue="Python.lesson_1_4" />
         <item itemvalue="Python.lesson_1_3" />
-        <item itemvalue="Python.lesson_1_1" />
       </list>
     </recent_temporary>
   </component>
